@@ -1,0 +1,67 @@
+body {
+  font-family: Georgia, serif;
+  max-width: 750px;
+  margin: 40px auto;
+  padding: 0 20px;
+  color: #222;
+  line-height: 1.6;
+  background: #fff;
+}
+
+/* HEADER */
+header {
+  text-align: center;
+  margin-bottom: 30px;
+  border-bottom: 2px solid #222;
+  padding-bottom: 20px;
+}
+
+header h1 {
+  font-size: 2rem;
+  margin-bottom: 5px;
+}
+
+header p {
+  color: #555;
+  font-size: 0.95rem;
+}
+
+/* SECTIONS */
+section {
+  margin-bottom: 30px;
+}
+
+h2 {
+  font-size: 1.1rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
+  margin-bottom: 12px;
+}
+
+/* ABOUT */
+#about p {
+  color: #444;
+}
+
+/* SKILLS */
+#skills ul {
+  list-style: disc;
+  padding-left: 20px;
+  color: #444;
+}
+
+#skills li {
+  margin-bottom: 4px;
+}
+
+/* CONTACT */
+#contact p {
+  margin: 4px 0;
+  color: #444;
+}
+
+#contact a {
+  color: #222;
+}
